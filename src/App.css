@@ -1,0 +1,28 @@
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#cart{
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+#cart-products{
+  position: fixed;
+  top: 50px;
+  right: 0;
+}
+
+#wishlist{
+  position: fixed;
+  top: 0;
+  right: 100px;
+}
+#wishlist-products{
+  position: fixed;
+  top: 100px;
+  right: 100px;
+}
